@@ -1,0 +1,185 @@
+.t1 {
+  position: absolute;
+  width: 706px;
+  height: 32px;
+  left: 556px;
+  top: 56px;
+
+  font-family: Courier;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+}
+
+.t2 {
+  position: absolute;
+  width: 371px;
+  height: 80px;
+  left: 61px;
+  top: 123px;
+
+  font-family: Courier;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+}
+
+.t3 {
+  position: absolute;
+  width: 355px;
+  height: 126px;
+  left: 257px;
+  top: 247px;
+
+  font-family: Courier;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+
+}
+
+.t4 {
+  position: absolute;
+  width: 189px;
+  height: 126px;
+  left: 492px;
+  top: 123px;
+
+  font-family: Courier;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+
+}
+
+.t5 {
+  position: absolute;
+  width: 188px;
+  height: 403px;
+  left: 491px;
+  top: 240px;
+
+  font-family: Courier;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+}
+
+.t6 {
+  position: absolute;
+  width: 188px;
+  height: 403px;
+  left: 400px;
+  top: 724px;
+
+  font-family: Courier;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+}
+
+.t7 {
+  position: absolute;
+  width: 181px;
+  height: 252px;
+  left: 1200px;
+  top: 363px;
+
+  font-family: Courier;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+}
+
+.t8 {
+  position: absolute;
+  width: 181px;
+  height: 553px;
+  left: 1200px;
+  top: 685px;
+
+  font-family: Courier;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+}
+
+.p1 {
+  position: absolute;
+  width: 194px;
+  height: 242px;
+  left: -30px;
+  top: 240px;
+
+  background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1586555105/636a2daff9674411bcd00554d8bb3181_am0lvo.gif);
+  background-size: cover;
+}
+
+.p2 {
+  position: absolute;
+  width: 194px;
+  height: 242px;
+  left: -30px;
+  top: 500px;
+
+  background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1586558211/9eb7e39ea9a74b689ce5fb3031de26c5-min_xtezmc.gif);
+  background-size: cover;
+}
+
+.p3 {
+
+  position: absolute;
+  width: 197px;
+  height: 247px;
+  left: 699px;
+  top: 211px;
+
+  background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1586558207/79c312cbfeb54a8593de2979af812aed-min_wmbwdr.gif);
+  background-size: cover;
+}
+
+.p4 {
+  position: absolute;
+  width: 194px;
+  height: 242px;
+  left: 600px;
+  top: 240px;
+
+  background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1586558311/38D43E7E-ED09-48A9-AFDE-04712AB1EB9B_2_v07d2n.jpg);
+  background-size: cover;
+}
+
+.p5 {
+  position: absolute;
+  width: 464px;
+  height: 553px;
+  left: 40px;
+  top: 475px;
+
+  background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1586558211/33a2258e927948d8b8cfa94b53624535-min_cz3wlx.gif);
+  background-size: cover;
+}
